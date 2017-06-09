@@ -19,12 +19,12 @@ Additions should be reasonably difficult and quick to finish. The point of the t
 ### Problem 1
 Reverse all characters in a string.
 
-    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob Only'
+    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB ylnO'
 
 ### Problem 2
 Reverse the order of words in a string.
 
-    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB ylnO'
+    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob Only'
 
 ### Problem 3
 Find the maximum value in a list of number.
