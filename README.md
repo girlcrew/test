@@ -1,5 +1,5 @@
 # Technical Questions
-This repository contains technical questions for candidates to answer. The original set of questions were[sourced from Stack Overflow][6]. Any future additions should adhere to the precept of the Bene Gesserit [gom jabbar][1], the high-handed enemy:
+This repository contains technical questions for candidates to answer. The original set of questions were [sourced from Stack Overflow][6]. Any future additions should adhere to the precept of the Bene Gesserit [gom jabbar][1], the high-handed enemy:
 
 > I observed you in pain, lad. Pain's merely the axis of the test. Your mother's told you about our ways of observing. I see the signs of her teaching in you. Our test is crisis and observation.
 
