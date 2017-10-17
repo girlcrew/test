@@ -5,6 +5,8 @@ This repository contains technical questions for candidates to answer. Additiona
 
 Additions should be reasonably difficult and quick to finish. The point of the test should always be to observe and learn the candidate's methods, processes and approaches as we supply unceasingly complex problems. A test should **not** serve to eliminate a candidate through [arbitrary hardness][2].
 
+Answers for the below problems in JavaScript are in [answers.js](answers.js). A public markdown document for candidates may be found in [this GitHub gist][5].
+
 ## Rules
 
 1. Tests shouldn't run over ninety minutes.
@@ -42,7 +44,7 @@ Calculate the actual remainder of a division, given a numerator and denominator,
     25 % 5 = 5
 
 ### Problem 6
- Return only unique/distinct values from a list.
+Return only unique/distinct values from a list.
 
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => [1, 2, 3, 4, 5]
 
@@ -63,3 +65,4 @@ Copyright (c) 2017 [GirlCrew Limited][3]. See [LICENSE](LICENSE) for details.
 [2]: http://www.jasonbock.net/jb/News/Item/7c334037d1a9437d9fa6506e2f35eaac "If Carpenters Were Hired Like Programmers"
 [3]: https://www.girtlcrew.com "GirlCrew"
 [4]: https://softwareengineering.stackexchange.com/questions/33816/how-to-recognize-a-good-programmer "How to recognize a good programmer?"
+[5]: https://gist.github.com/bhalash/a8d93592c4ecefbbcec789f43728f8a2 "Fiendishly-Difficult Candidate Questions (Muahahahahaha)"
