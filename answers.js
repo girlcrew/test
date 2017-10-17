@@ -10,9 +10,13 @@
  *
  * Question 1: Reverse a string.
  * Question 2: Reverse only the words in a string.
+ *
+ * @param {string} string - String to reverse.
+ * @param {string} [separator=''] - Character to reverse on.
+ * @return {string} - Joined, reversed string.
  */
 
-function reverse(string, separator) {
+function reverse(string, separator = '') {
     return string.split(separator).reverse().join(separator);
 }
 
@@ -22,6 +26,9 @@ function reverse(string, separator) {
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => 5
  *
  * Question 3: Find the maximum value in a list of numbers.
+ *
+ * @param {number[]} list - Number list to evaluate.
+ * @return {number} - Maximum value.
  */
 
 function maximum(list) {
@@ -40,6 +47,9 @@ function maximum(list) {
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => 1
  *
  * Question 4: Find the minimum value in a list of numbers.
+ *
+ * @param {number[]} list - Number list to evaluate.
+ * @return {number} - Minimum value.
  */
 
 function minimum(list) {
@@ -59,6 +69,10 @@ function minimum(list) {
  *
  * Question 5: Calculate the remainder, given a numerator and denominator,
  * without using the modulo (%) operator.
+ *
+ * @param {number} numerator
+ * @param {number} denominator
+ * @return {number} - Actual remainder amount.
  */
 
 function remainder(numerator, demoninator) {
@@ -72,6 +86,9 @@ function remainder(numerator, demoninator) {
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => [1, 2, 3, 4, 5]
  *
  * Question 6: Return only unique/distinct values from a list.
+ *
+ * @param {number[]} list - Number list to evaluate.
+ * @return {number[]} - Unique numbers from evaluated list.
  */
 
 function unique(list) {
@@ -91,6 +108,9 @@ function unique(list) {
  *
  * Question 7: Return the distinct values from a list as a string, including the
  * count of occurrences.
+ *
+ * @param {number[]} list - Number list to evaluate.
+ * @return {string} - Paired number/occurrances.
  */
 
 function distinctCount(list) {
@@ -115,6 +135,9 @@ function distinctCount(list) {
  * Question 8: Given a string of expressions (variable assignments and operators)
  * only, and which adheres to the above format, return the results of the
  * expressions.
+ *
+ * @param {string} string - String to evaluate.
+ * @param {number} - Result of evaluation.
  */
 
 function evalEquation(string) {
