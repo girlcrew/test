@@ -5,7 +5,12 @@ This repository contains technical questions for candidates to answer. Additiona
 
 Additions should be reasonably difficult and quick to finish. The point of the test should always be to observe and learn the candidate's methods and thought processes as we supply inceasingly complex problems. A good test should **never** try to eliminate a candidate through [arbitrary hardness][2].
 
-Answers for the below problems in JavaScript are in [answers.js](answers.js). A public markdown document for candidates may be found in [this GitHub gist][5].
+Answers for the below problems are included for:
+
+* JavaScript: [answers.js](answers.js)
+* Ruby: [answers.rb](answers.rb)
+
+A public markdown document for the candidate may be found in [this GitHub gist][5].
 
 ## Rules
 
