@@ -1,5 +1,5 @@
 # Technical Questions
-This repository contains technical questions for candidates to answer. Additional questions should adhere to the precept of the Bene Gesserit [gom jabbar][1], the high-handed enemy:
+This repository contains technical questions for candidates to answer. The original set of questions were[sourced from Stack Overflow][6]. Any future additions should adhere to the precept of the Bene Gesserit [gom jabbar][1], the high-handed enemy:
 
 > I observed you in pain, lad. Pain's merely the axis of the test. Your mother's told you about our ways of observing. I see the signs of her teaching in you. Our test is crisis and observation.
 
@@ -71,3 +71,4 @@ Copyright (c) 2017 [GirlCrew Limited][3]. See [LICENSE](LICENSE) for details.
 [3]: https://www.girtlcrew.com "GirlCrew"
 [4]: https://softwareengineering.stackexchange.com/questions/33816/how-to-recognize-a-good-programmer "How to recognize a good programmer?"
 [5]: https://gist.github.com/bhalash/a8d93592c4ecefbbcec789f43728f8a2 "Fiendishly-Difficult Candidate Questions (Muahahahahaha)"
+[6]: https://stackoverflow.com/questions/117812/alternate-fizzbuzz-questions/117891#117891 "Alternate FizzBuzz Questions"
