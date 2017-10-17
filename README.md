@@ -53,12 +53,12 @@ Return only unique/distinct values from a list of numbers.
 
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => [1, 2, 3, 4, 5]
 
-### Question 7
+### Problem 7
 Return the distinct values from a list of numbers as a string, joined with the count of occurrences.
 
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => '1(2) 2(1) 3(1) 4(3) 5(2)'
 
-### Question 8
+### Problem 8
 Given a string of expressions (variable assignments and operators) only, and which adheres to the below format, return the results of the expressions.
 
     'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
