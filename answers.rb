@@ -80,11 +80,8 @@ end
 
 def distinct_count(list)
   counts = list.each_with_object({}) do |number, hash|
-    if hash.key? number
-      hash[number] += 1
-    else
-      hash[number] = 1
-    end
+    hash[number] ||= 0
+    hash[number] += 1
   end
 
   counts.to_a.map { |count, number| "#{count}(#{number})" }.join(' ')
