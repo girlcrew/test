@@ -3,7 +3,7 @@ This repository contains technical questions for candidates to answer. Additiona
 
 > I observed you in pain, lad. Pain's merely the axis of the test. Your mother's told you about our ways of observing. I see the signs of her teaching in you. Our test is crisis and observation.
 
-Additions should be reasonably difficult and quick to finish. The point of the test should always be to observe and learn the candidate's methods and thought processes as we supply inceasingly complex problems. A good test should **never** work to eliminate a candidate through [arbitrary hardness][2].
+Additions should be reasonably difficult and quick to finish. The point of the test should always be to observe and learn the candidate's methods and thought processes as we supply inceasingly complex problems. A good test should **never** try to eliminate a candidate through [arbitrary hardness][2].
 
 Answers for the below problems in JavaScript are in [answers.js](answers.js). A public markdown document for candidates may be found in [this GitHub gist][5].
 
