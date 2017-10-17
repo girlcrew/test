@@ -41,7 +41,7 @@ Find the minimum value in a list of numbers.
 ### Problem 5
 Calculate the actual remainder of a division, given a numerator and denominator, without using the modulo (`%`) operator or equivalent function.
 
-    25 % 5 = 5
+    25 % 10 = 5
 
 ### Problem 6
 Return only unique/distinct values from a list of numbers.
