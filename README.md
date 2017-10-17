@@ -64,7 +64,7 @@ Given a string of expressions (variable assignments and operators) only, and whi
     'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
 
 ## License
-Copyright (c) 2017 [GirlCrew Limited][3]. See [LICENSE](LICENSE) for details.
+Copyright (c) 2017 [GirlCrew Limited][3]. Original questions (c) 2008 [MBCook][7].[See [LICENSE](LICENSE) for details.
 
 [1]: http://dune.wikia.com/wiki/Gom_Jabbar "Gom Jabbar"
 [2]: http://www.jasonbock.net/jb/News/Item/7c334037d1a9437d9fa6506e2f35eaac "If Carpenters Were Hired Like Programmers"
@@ -72,3 +72,4 @@ Copyright (c) 2017 [GirlCrew Limited][3]. See [LICENSE](LICENSE) for details.
 [4]: https://softwareengineering.stackexchange.com/questions/33816/how-to-recognize-a-good-programmer "How to recognize a good programmer?"
 [5]: https://gist.github.com/bhalash/a8d93592c4ecefbbcec789f43728f8a2 "Fiendishly-Difficult Candidate Questions (Muahahahahaha)"
 [6]: https://stackoverflow.com/questions/117812/alternate-fizzbuzz-questions/117891#117891 "Alternate FizzBuzz Questions"
+[7]: https://stackoverflow.com/users/18189/mbcook "MBCook"
