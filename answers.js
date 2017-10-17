@@ -66,7 +66,7 @@ function minimum(list) {
  *
  * @example
  *
- *  25 % 5 = 5
+ *  25 % 10 = 5
  *
  * @param {number} numerator
  * @param {number} denominator
