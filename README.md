@@ -64,7 +64,7 @@ Given a string of expressions (variable assignments and operators) only, and whi
     'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
 
 ## License
-Copyright (c) 2017 [GirlCrew Limited][3]. Original questions (c) 2008 [MBCook][7].[See [LICENSE](LICENSE) for details.
+Copyright (c) 2017 [GirlCrew Limited][3]. Original questions (c) 2008 [MBCook][7]. [See [LICENSE](LICENSE) for details.
 
 [1]: http://dune.wikia.com/wiki/Gom_Jabbar "Gom Jabbar"
 [2]: http://www.jasonbock.net/jb/News/Item/7c334037d1a9437d9fa6506e2f35eaac "If Carpenters Were Hired Like Programmers"
