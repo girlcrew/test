@@ -1,3 +1,5 @@
+/*  eslint-disable no-unused-vars */
+
 /**
  * @see http://stackoverflow.com/a/117891/1433400
  */
