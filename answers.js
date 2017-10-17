@@ -5,13 +5,13 @@
  */
 
 /**
+ * Question 1: Reverse a string.
+ * Question 2: Reverse only the words in a string.
+ *
  * @example
  *
  *  'Only Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB ylnO'
  *  'Only Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob Only'
- *
- * Question 1: Reverse a string.
- * Question 2: Reverse only the words in a string.
  *
  * @param {string} string - String to reverse.
  * @param {string} [separator=''] - Character to reverse on.
@@ -23,11 +23,11 @@ function reverse(string, separator = '') {
 }
 
 /**
+ * Question 3: Find the maximum value in a list of numbers.
+ *
  * @example
  *
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => 5
- *
- * Question 3: Find the maximum value in a list of numbers.
  *
  * @param {number[]} list - Number list to evaluate.
  * @return {number} - Maximum value.
@@ -44,11 +44,11 @@ function maximum(list) {
 }
 
 /**
+ * Question 4: Find the minimum value in a list of numbers.
+ *
  * @example
  *
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => 1
- *
- * Question 4: Find the minimum value in a list of numbers.
  *
  * @param {number[]} list - Number list to evaluate.
  * @return {number} - Minimum value.
@@ -65,12 +65,12 @@ function minimum(list) {
 }
 
 /**
+ * Question 5: Calculate the remainder, given a numerator and denominator,
+ * without using the modulo (%) operator.
+ *
  * @example
  *
  *  25 % 5 = 5
- *
- * Question 5: Calculate the remainder, given a numerator and denominator,
- * without using the modulo (%) operator.
  *
  * @param {number} numerator
  * @param {number} denominator
@@ -83,11 +83,11 @@ function remainder(numerator, demoninator) {
 }
 
 /**
+ * Question 6: Return only unique/distinct values from a list.
+ *
  * @example
  *
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => [1, 2, 3, 4, 5]
- *
- * Question 6: Return only unique/distinct values from a list.
  *
  * @param {number[]} list - Number list to evaluate.
  * @return {number[]} - Unique numbers from evaluated list.
@@ -104,12 +104,12 @@ function unique(list) {
 }
 
 /**
+ * Question 7: Return the distinct values from a list as a string, including the
+ * count of occurrences.
+ *
  * @example
  *
  *  [1, 1, 2, 3, 4, 4, 4, 5, 5] => '1(2) 2(1) 3(1) 4(3) 5(2)'
- *
- * Question 7: Return the distinct values from a list as a string, including the
- * count of occurrences.
  *
  * @param {number[]} list - Number list to evaluate.
  * @return {string} - Paired number/occurrances.
@@ -130,16 +130,16 @@ function distinctCount(list) {
 }
 
 /**
- * @example
- *
- *  'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
- *
  * Question 8: Given a string of expressions (variable assignments and operators)
  * only, and which adheres to the above format, return the results of the
  * expressions.
  *
+ * @example
+ *
+ *  'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
+ *
  * @param {string} string - String to evaluate.
- * @param {number} - Result of evaluation.
+ * @return {number} - Result of evaluation.
  */
 
 function evalEquation(string) {
