@@ -10,8 +10,8 @@
  *
  * @example
  *
- *  'Only Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB ylnO'
- *  'Only Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob Only'
+ *  'Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB'
+ *  'Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob'
  *
  * @param {string} string - String to reverse.
  * @param {string} [separator=''] - Character to reverse on.
