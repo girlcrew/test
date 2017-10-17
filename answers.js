@@ -1,10 +1,6 @@
 /*  eslint-disable no-unused-vars */
 
 /**
- * @see http://stackoverflow.com/a/117891/1433400
- */
-
-/**
  * Question 1: Reverse a string.
  * Question 2: Reverse only the words in a string.
  *
