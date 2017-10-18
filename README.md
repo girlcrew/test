@@ -59,7 +59,7 @@ Return the distinct values from a list of numbers as a string, **joined with the
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => '1(2) 2(1) 3(1) 4(3) 5(2)'
 
 ### Problem 8
-Given a string of expressions (variable assignments and operators) only, and which adheres to the below format, return the results of the expressions.
+Given a string of expressions (variable assignments and operators) only, and which adheres to the below format, **evalute and return the results of the expressions**.
 
     'a=9 b=1 c=5 d=2 e=9 a / -b + c * d % e' => -8
 
