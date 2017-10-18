@@ -24,37 +24,37 @@ A public markdown document for the candidate may be found in [this GitHub gist][
 * [How to recognize a good programmer?][3]
 
 ### Problem 1
-Reverse all characters in a string.
+Reverse **all characters** in a string.
 
-    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB ylnO'
+    'Bob Ate Fresh Gummy Karate Monkeys' => 'syeknoM etaraK ymmuG hserF etA boB'
 
 ### Problem 2
-Reverse the order of words in a string.
+Reverse only the **order of words** in a string.
 
-    'Only Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob Only'
+    'Bob Ate Fresh Gummy Karate Monkeys' => 'Monkeys Karate Gummy Fresh Ate Bob'
 
 ### Problem 3
-Find the maximum value in a list of numbers.
+Find the **maximum** value in a list of numbers.
 
     [1, 1, 7,  2, 3, 4, 4, 4, 5, 5] => 7
 
 ### Problem 4
-Find the minimum value in a list of numbers.
+Find the **minimum** value in a list of numbers.
 
     [1, 1, 2, 3, 4, 4, 4, -9, 5, 5] => -9
 
 ### Problem 5
-Calculate the actual remainder of a division, given a numerator and denominator, without using the modulo (`%`) operator or equivalent function.
+Calculate the actual remainder of a division, given a numerator and denominator, **without using the modulo (`%`) operator** or equivalent function.
 
     25 % 10 = 5
 
 ### Problem 6
-Return only unique/distinct values from a list of numbers.
+Return only **unique/distinct values** from a list of numbers.
 
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => [1, 2, 3, 4, 5]
 
 ### Problem 7
-Return the distinct values from a list of numbers as a string, joined with the count of occurrences.
+Return the distinct values from a list of numbers as a string, **joined with the count of occurrences**.
 
     [1, 1, 2, 3, 4, 4, 4, 5, 5] => '1(2) 2(1) 3(1) 4(3) 5(2)'
 
